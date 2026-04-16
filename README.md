@@ -40,6 +40,4 @@ Cada programa utiliza su propia base de datos en MySQL.
 
 Haz clic aquí para descargar el manual:
 
-👉 [Descargar Manual](./PROGRAMACION%20II%20MANUAL%20DE%20USUARIO.pdf)
-
-https://github.com/CristopherGP/ProgressBar-con-Menu-de-Programas-y-BD/commit/ca482f9fac805bf29e174b1feb9296068cdfa949
+👉 [Descargar Manual](PROGRAMACION%20II%20MANUAL%20DE%20USUARIO.pdf)
