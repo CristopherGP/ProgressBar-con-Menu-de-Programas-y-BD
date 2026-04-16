@@ -3,7 +3,7 @@
 # Sistema de Gestión
 
 ## Descripción
-Este proyecto es un sistema de gestión desarrollado en C# y Java, el cual permite ejecutar distintos programas y consultar registros almacenados en bases de datos MySQL.
+Este proyecto es un sistema de gestión desarrollado en C# y Java, el cual contiene un ProgressBar con un Menu de programas, ademas permite ejecutar distintos programas y consultar registros almacenados en bases de datos MySQL.
 
 ## Requisitos
 - Windows
