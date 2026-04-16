@@ -27,8 +27,11 @@ Este proyecto es un sistema de gestión desarrollado en C# y Java, el cual permi
 - Bases de datos (.sql)
 
 ## Equipo
-- Cristopher Guerrero
-- (Agregar nombres de tus compañeros)
+- Cristopher Husserl Guerrero Puente
+- Ana Paulina Lopez Valenzuela
+- Omar Grimaldo Barbosa
+- Diego Francisco Felix Garza
+- Johana Elizabeth Torres Garcia
 
 ## Notas
 Cada programa utiliza su propia base de datos en MySQL.
